@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: sqlServerCustomRestApi
+#datasources:
+#  default:
+#    url: jdbc:sqlserver://localhost:1433;databaseName=newdb
+#    driverClassName: com.microsoft.sqlserver.jdbc.SQLServerDriver
+#    username: Anmeoi
+#    password: Anemoi@123
